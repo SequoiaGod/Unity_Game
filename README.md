@@ -10,4 +10,4 @@ Game video
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=vMIXJKCuHDE)
 
-
+[Try This Game? Click to go to the download page](https://github.com/johnycoco1212/Knight_Game)
